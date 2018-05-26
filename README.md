@@ -16,7 +16,7 @@
 
 打开Chrome浏览器，在地址栏输入 chrome://extensions/ 回车，
 
-将下载的skyZIP插件(.crx)拖到这个页面里，即可安装上。
+将下载的skyZIP插件（.crx）拖到这个页面里，即可安装上。
 
 4、确认浏览器右上角的小雷达处于点亮状态（Enabled），
 
