@@ -8,7 +8,7 @@
 
 2、下载Chrome扩展skyZIP：
 
-skyZIP官方网站 https://www.skyzip.de/ ，但需翻墙在Chrome网上应用店里安装，
+官方网站 https://www.skyzip.de/ ，但需翻墙在Chrome网上应用店里安装，
 
 本地下载：https://github.com/chengyuan98/up/blob/master/0.8.3_0.crx
 
@@ -20,6 +20,6 @@ skyZIP官方网站 https://www.skyzip.de/ ，但需翻墙在Chrome网上应用�
 
 4、确认浏览器右上角的小雷达处于点亮状态（Enabled），
 
-打开谷歌网站 https://www.google.com/ 试试，搜索“动态”；
+打开谷歌网站 https://www.google.com/ 试试，搜索“动态”，
 
-或 http://dongtaiwang.com/loc/phome.php?v=0 浏览动态新闻。
+或 http://dongtaiwang.com/loc/phome.php?v=0 浏览新闻。
