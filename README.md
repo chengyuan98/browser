@@ -1,25 +1,25 @@
 #### 翻墙Chrome浏览器（skyZIP扩展）—— 适用桌面电脑：
 
-1、下载并安装谷歌（Chrome）浏览器：
+1、建议安装原版谷歌（Chrome）浏览器：
 
 官方网址：https://www.google.cn/intl/zh-CN/chrome/
 
-或离线包下载：https://pan.lanzou.com/b112274/
+或可试试基于Chrome内核的浏览器（国内那些浏览器）。
 
 2、下载Chrome扩展skyZIP：
 
-skyZIP官方网站 https://www.skyzip.de/ ，但需翻墙才能下载到，
+skyZIP官方网站 https://www.skyzip.de/ ，但需翻墙在Chrome网上应用店里安装，
 
-替代网站下载：https://deeponion.org/community/threads/skyzip.15505/
-
-提供了百度网盘的下载地址。
+本地下载：https://github.com/chengyuan98/up/blob/master/0.8.3_0.crx
 
 3、安装Chrome扩展skyZIP：
 
 打开Chrome浏览器，在地址栏输入 chrome://extensions/ 回车，
 
-将下载的skyZIP插件文件拖动到这个页面里，即可自动安装上。
+将下载的skyZIP插件(.crx)拖到这个页面里，即可安装上。
 
-4、确认浏览器右上角的小雷达处在点亮状态，
+4、确认浏览器右上角的小雷达处于点亮状态（Enabled），
 
-打开谷歌网站 https://www.google.com/ 试试，搜索“动态”，点“手气不错”。
+打开谷歌网站 https://www.google.com/ 试试，搜索“动态”；
+
+或 http://dongtaiwang.com/loc/phome.php?v=0 浏览动态新闻。
