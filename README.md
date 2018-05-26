@@ -10,7 +10,7 @@
 
 官方网站 https://www.skyzip.de/ ，但需翻墙在Chrome网上应用店里安装，
 
-本地下载：https://github.com/chengyuan98/up/blob/master/skyZIP_0.8.3.crx
+本地下载：https://github.com/chengyuan98/up/raw/master/skyZIP_0.8.3.crx
 
 3、安装Chrome扩展skyZIP：
 
