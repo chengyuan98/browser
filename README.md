@@ -24,4 +24,4 @@
 
 或 http://dongtaiwang.com/loc/phome.php?v=0 浏览新闻。
 
-5、更多翻墙工具请到 https://github.com/chengyuan98/gate 
+5、更多翻墙请到 https://github.com/chengyuan98/gate 
