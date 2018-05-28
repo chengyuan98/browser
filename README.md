@@ -4,7 +4,7 @@
 
 官方网址：https://www.google.cn/intl/zh-CN/chrome/
 
-或可试试基于Chrome内核的浏览器（国内那些浏览器）。
+或离线包下载：https://pan.lanzou.com/b112274/
 
 2、下载Chrome扩展skyZIP：
 
