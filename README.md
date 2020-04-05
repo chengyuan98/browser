@@ -22,6 +22,6 @@
 
 打开谷歌网站 https://www.google.com/ 试试，搜索“动态”，
 
-或 http://dongtaiwang.com/loc/phome.php?v=0 浏览新闻。
+或 http://dongtaiwang.com/loc/phome.php 浏览新闻。
 
 5、更多翻墙请到 https://github.com/chengyuan98/gate 
