@@ -4,7 +4,7 @@
 
 官方网址：https://www.google.cn/intl/zh-CN/chrome/
 
-或离线包下载：https://pan.lanzou.com/b112274/
+或便携版谷歌浏览器：https://portableapps.com/apps/internet/google_chrome_portable
 
 2、下载Chrome扩展skyZIP：
 
