@@ -22,5 +22,5 @@
 
 <h3><a target="_blank" href="https://github.com/chengyuan98/software/blob/master/README.md">翻墙软件</a></h3>
 
-<h3><a target="_blank" href="https://portableapps.com/apps/internet/google_chrome_portable">便携版谷歌浏览器</a></h3>
+<h3><a target="_blank" href="https://portableapps.com/apps/internet/google_chrome_portable">便携版Chrome浏览器</a></h3>
 
