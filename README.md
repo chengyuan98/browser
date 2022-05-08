@@ -1,27 +1,26 @@
-#### 翻墙Chrome浏览器（skyZIP扩展）—— 已不可用！
+<h3><a target="_blank" href="https://github.com/gwy252/djy/blob/master/gb/nf1351518.md#1">大纪元新闻首页</a></h3>
+<p><a target="_blank" href="https://github.com/gwy252/djy/blob/master/gb/nsc413.md#1">大纪元大陆时事</a></p>
+<p><a target="_blank" href="https://github.com/gwy252/djy/blob/master/gb/n24hr.md#1">大纪元全球热点</a></p>
+<p><a target="_blank" href="https://github.com/gwy252/djy/blob/master/gb/news392.md#1">大纪元时事评论</a></p>
+<p><a target="_blank" href="https://github.com/gwy252/djy/blob/master/gb/ncid1982.md#1">大纪元传统文化</a></p>
 
-1、建议安装原版谷歌（Chrome）浏览器：
+<h3><a target="_blank" href="https://github.com/gwy252/ntdtv/blob/master/gb/prog204.md#1">新唐人新闻首页</a></h3>
+<p><a target="_blank" href="https://github.com/gwy252/ntdtv/blob/master/gb/prog204_1.md#1">新唐人大陆新闻</a></p>
+<p><a target="_blank" href="https://github.com/gwy252/ntdtv/blob/master/gb/prog202_1.md#1">新唐人国际新闻</a></p>
+<p><a target="_blank" href="https://github.com/gwy252/ntdtv/blob/master/gb/prog207_1.md#1">新唐人时事评论</a></p>
 
-官方网址：https://www.google.cn/intl/zh-CN/chrome/
+<h4><p><a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/zhongguo.md">明慧周报</a>
+&nbsp;&nbsp;<a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/cangsheng.md">天地苍生</a></p></h4>
+<h4><p><a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/hongfu.md">天赐洪福</a>
+&nbsp;&nbsp;<a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/huabao.md">明慧画报</a></p></h4>
+<h4><p><a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/mingbai.md">《明白》</a>
+&nbsp;&nbsp;<a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/zhenxiang.md">《真相》</a></p></h4>
+<h4><p><a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/huisheng.md">《慧声》</a>
+&nbsp;&nbsp;<a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/xiwang.md">《希望》</a></p></h4>
 
-或便携版谷歌浏览器：https://portableapps.com/apps/internet/google_chrome_portable
+<h3><a target="_blank" href="https://github.com/kywtza365/vd#readme">在线精选视频</a></h3>
 
-2、下载Chrome扩展skyZIP：
+<h3><a target="_blank" href="https://github.com/chengyuan98/software/blob/master/README.md">翻墙软件</a></h3>
 
-官方网站 https://www.skyzip.de/ ，但需翻墙在Chrome网上应用店里安装，
+<h3><a target="_blank" href="https://portableapps.com/apps/internet/google_chrome_portable">便携版谷歌浏览器</a></h3>
 
-本地下载：https://github.com/chengyuan98/up/raw/master/skyZIP_0.8.3.crx
-
-3、安装Chrome扩展skyZIP：
-
-打开Chrome浏览器，在地址栏输入 chrome://extensions/ 回车，
-
-将下载的skyZIP插件（.crx）拖到这个页面里，即可安装上。
-
-4、确认浏览器右上角的小雷达处于点亮状态（Enabled），
-
-打开谷歌网站 https://www.google.com/ 试试，搜索“动态”，
-
-或 http://dongtaiwang.com/loc/phome.php 浏览新闻。
-
-5、更多翻墙请到 https://github.com/chengyuan98/gate 
