@@ -18,7 +18,7 @@
 <h4><p><a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/huisheng.md">《慧声》</a>
 &nbsp;&nbsp;<a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/xiwang.md">《希望》</a></p></h4>
 
-<h3><a target="_blank" href="https://github.com/kywtza365/vd#readme">在线精选视频</a></h3>
+<h3><a target="_blank" href="https://github.com/tui590285/www/blob/master/README.md#%E7%9C%9F%E7%9B%B8%E8%A7%86%E9%A2%91">在线精选视频</a></h3>
 
 <h3><a target="_blank" href="https://github.com/chengyuan98/software/blob/master/README.md">翻墙软件</a></h3>
 
