@@ -2,7 +2,7 @@
 <p><a target="_blank" href="https://github.com/tui590285/djy/blob/master/gb/nsc413.md#1">大纪元大陆时事</a></p>
 <p><a target="_blank" href="https://github.com/tui590285/djy/blob/master/gb/n24hr.md#1">大纪元全球热点</a></p>
 <p><a target="_blank" href="https://github.com/tui590285/djy/blob/master/gb/news392.md#1">大纪元时事评论</a></p>
-<p><a target="_blank" href="https://github.com/tui590285/djy/blob/master/gb/ncid1982.md#1">大纪元传统文化</a></p>
+<p><a target="_blank" href="https://github.com/tui590285/djy/blob/master/gb/news2007.md#1">大纪元传统文化</a></p>
 
 <h3><a target="_blank" href="https://github.com/tui590285/ntdtv/blob/master/gb/prog204.md#1">新唐人新闻首页</a></h3>
 <p><a target="_blank" href="https://github.com/tui590285/ntdtv/blob/master/gb/prog204_1.md#1">新唐人大陆新闻</a></p>
