@@ -10,5 +10,3 @@
 
 <h3><a target="_blank" href="https://github.com/tui590285/www/blob/master/README.md#%E7%9C%9F%E7%9B%B8%E8%A7%86%E9%A2%91">直连通道：在线精选视频</a></h3>
 
-<h3><a target="_blank" href="https://portableapps.com/apps/internet/google_chrome_portable">便携版Chrome浏览器（不含翻墙软件）</a></h3>
-
